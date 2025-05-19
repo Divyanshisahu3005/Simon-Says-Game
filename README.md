@@ -1,1 +1,1 @@
-This game is created using HTML,CSS &amp; Javascript
+This game is created using HTML,CSS &amp; Javascript.
